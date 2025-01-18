@@ -119,4 +119,4 @@ def main(page: flet.Page):
 
 
 if __name__ == "__main__":
-    flet.app(target=main)
+    flet.app(main)
